@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --background-color: #f0f2f5;
+  --input-color: #e4e6eb;
+}
+/* .app_body {
+  display: flex;
+} */
