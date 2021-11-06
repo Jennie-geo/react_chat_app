@@ -67,7 +67,25 @@
   border-radius: 10px;
   margin-top: 10px;
 }
-sidebar_recentItem {
+.sidebar_recentItem {
   display: flex;
   font-size: 13px;
+  color: var(--recent-color);
+  font-weight: bolder;
+  cursor: pointer;
+  padding: 5px;
+}
+.sidebar_bottom > p {
+  font-size: 13px;
+  padding-bottom: 10px;
+}
+.sidebar_recentItem:hover {
+  background-color: whitesmoke;
+  color: black;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.sidebar_hash {
+  margin-right: 10px;
+  margin-left: 5px;
 }

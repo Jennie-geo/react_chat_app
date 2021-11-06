@@ -6,6 +6,8 @@
 :root {
   --background-color: #f0f2f5;
   --input-color: #e4e6eb;
+  --recent-color: gray;
+  --number-color: #4f329c;
 }
 /* .app_body {
   display: flex;
