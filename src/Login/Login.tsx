@@ -42,7 +42,6 @@ const Login = () => {
       })
       .catch((error) => alert(error));
   };
-  console.log([]);
   const loginToApp = (e: ChangeEvent<HTMLInputElement>) => {
     e.preventDefault();
   };
